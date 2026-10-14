@@ -80,6 +80,10 @@
 0.0.0.0 apollo2.dl.playstation.net
 0.0.0.0 nsx.sec.np.dl.playstation.net
 0.0.0.0 oqesn.np.dl.playstation.net
+#================================================================
+# Added new endpoint PS5 pinged to ~ potential update server
+#================================================================
+0.0.0.0 ps5cel.np.dl.playstation.net
 # ===============================================================
 # Extra endpoints often paired with update blocking
 # ===============================================================
